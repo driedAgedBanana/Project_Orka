@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 848173c0c95980f42847a5c278910cfa
+  productGUID: e887136e7934e584b97590c4f3af840a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -930,11 +930,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: c29fc238-cae9-4368-b657-f21e644a90f2
+  cloudProjectId: 0b90b0fe-8820-4a53-9322-214ea70451ce
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Project_Orka 2025-05-09_12-34-55
-  organizationId: kenwayconnor836
+  projectName: Project_Orka
+  organizationId: unity_76dc135747800c3a451a
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
